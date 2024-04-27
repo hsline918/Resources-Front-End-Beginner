@@ -4,7 +4,7 @@
 
 If you want to learn how to become a Front-End developer, you are in the right place!
 
-I will regularly update that list with new resources and links I found on the web. Don't hesitate to participate by sending a PR! Maybe your first on Github :)
+I will regularly update that list with new resources and links I found on the web. Don't hesitate to participate by sending a PR! Maybe your first on Github.
 
 I'm using some emoticons to give you more information on these links.
 
